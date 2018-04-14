@@ -6,6 +6,8 @@
 A mobile application that allows you to work with the project. 
 The program is written for the ANDROID OS.
 
+URL project: http://gvozdev.mycloud.by/
+
 
 Simple description
 
