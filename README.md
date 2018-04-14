@@ -15,4 +15,6 @@ Simple description
 3. Possibility to book a book.
 4. View ordered books and cancel orders.
 
+Test account: Vitaly Vitaly
+
 ![Image alt](https://github.com/gvozdev1986/MyLibraryClient/blob/master/img/screen.jpg)
